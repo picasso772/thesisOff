@@ -1,0 +1,11 @@
+
+¤squid:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§·¦îüÿÿÿÿ8»½‚Ûš-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ…€÷şÿÿÿÿ
+nsquid:S00116#"VRename this field "spin_gender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇæœÀ
+¥squid:S1186ì"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ8‰ƒÌ-
+Usquid:S1135~"2Complete the task associated to this TODO comment.(õ×«Ôüÿÿÿÿ8ÈˆÚÛš-
+ssquid:S00116""[Rename this field "spin_specialized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äˆÅ’
+qsquid:S3776•"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¡é††8ÄÆÖ-
+]"squid:SwitchLastCaseIsDefaultCheckŞ""Add a default case to this switch.(“æĞûÿÿÿÿ8‰ƒÌ-
+ssquid:S00116!"VRename this field "spin_school" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©–ãéûÿÿÿÿ
+]"squid:SwitchLastCaseIsDefaultCheck˜""Add a default case to this switch.(×“¾ñùÿÿÿÿ8©ãïëš-

@@ -1,0 +1,27 @@
+
+csquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(¥†§ù
+dsquid:S00116%"LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡∆˜˛
+jsquid:S00117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éíœﬂ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„ÍÂ¿
+isquid:S00116'"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˇç§Æ¯ˇˇˇˇ
+jsquid:S00117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àóç©
+\squid:UselessImportCheck"3Remove this unused import 'android.graphics.Color'.(¯„ÌÚ˛ˇˇˇˇ
+jsquid:S00117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù‹ÿ√
+isquid:S00117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù©õ'
+jsquid:S00117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨øÊï
+Asquid:S1068"*Remove this unused "TYPE_A" private field.(Ö§÷ã
+isquid:S00116"QRename this field "USPACE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÿÿ∏
+isquid:S00116#"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬∂”ﬁ˙ˇˇˇˇ
+isquid:S00116$"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄΩ®Ô˘ˇˇˇˇ
+dsquid:S00116&"LRename this field "D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( µ≠ﬁ
+dsquid:S00116("LRename this field "O" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(≠ﬂèú
+ssquid:S00116"VRename this field "FIRST_SPACE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–∫÷√˙ˇˇˇˇ
+osquid:S1450"XRemove the "paintText" field and declare it as a local variable in the relevant methods.(∂ŸæÑ
+jsquid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”îúà
+jsquid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”îúà
+jsquid:S00117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù´ßŸ
+osquid:S00117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥πÜÕ˛ˇˇˇˇ
+osquid:S00117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅíÑ©ˇˇˇˇˇ
+isquid:S00117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çˆ§Y
+isquid:S00117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™“∆
+Q"squid:SwitchLastCaseIsDefaultCheckÈ""Add a default case to this switch.(‹üïç

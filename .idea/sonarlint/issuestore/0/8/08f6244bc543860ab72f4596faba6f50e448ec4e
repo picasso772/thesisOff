@@ -1,0 +1,12 @@
+
+:squid:S3626›"Remove this redundant jump.(ûÁİ…8Ÿ¶—Ìœ-
+hsquid:S1192/"JDefine a constant instead of duplicating this literal "QUANGANHs" 3 times.(ÇõŸú8¶êˆË-
+isquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.( ¼ ü8À“¦Ë›-
+Ÿsquid:S1186K"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”ÀÙ°8Ÿ¶—Ìœ-
+jsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.( ¼ ü8à—ä‹-
+lsquid:UnusedPrivateMethod’"?Remove this unused private "observeCountCustomerSaveDb" method.(àìØ”8Ÿ¶—Ìœ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÀ¦¥şÿÿÿÿ
+lsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(õÑ­Æ8˜áŞÙ­-
+fsquid:UnusedPrivateMethodU"5Remove this unused private "saveQuestionInDB" method.(­¼’Òûÿÿÿÿ8à—ä‹-
+ squid:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††8Ÿ¶—Ìœ-
+Gsquid:S1604°"(Make this anonymous inner class a lambda(†£°î8Ÿ¶—Ìœ-

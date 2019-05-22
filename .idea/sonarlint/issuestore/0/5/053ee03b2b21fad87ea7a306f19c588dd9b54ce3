@@ -1,0 +1,5 @@
+
+U"squid:SwitchLastCaseIsDefaultCheckH""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+—squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ÖÑ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îÔ˜÷ùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“Â§Ãıÿÿÿÿ

@@ -1,0 +1,5 @@
+
+ƒsquid:S4165@"`Remove this useless assignment; "id" already holds the assigned value along all execution paths.(£©θΪώÿÿÿÿ8’ΫΧ-
+esquid:S00107>"AConstructor has 9 parameters, which is greater than 7 authorized.(Β„Λ…όÿÿÿÿ8’ΫΧ-
+{squid:UselessImportCheck"KRemove this unused import 'dev147.com.vn.projectpsychological.utils.Utils'.(‚όκϊÿÿÿÿ8’ΫΧ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ω τ“ÿÿÿÿÿ

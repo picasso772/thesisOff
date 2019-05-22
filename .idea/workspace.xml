@@ -1,0 +1,1314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="TAGs" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="824355ab-7a26-4cd1-85a3-a1d0ee1d6758" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="psychological" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="psychological" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="psychological" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="psychological" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="psychological" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="cleanup" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1628437098">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gradle" value="4" />
+          <entry key="java" value="236" />
+          <entry key="jpeg" value="1" />
+          <entry key="png" value="1" />
+          <entry key="txt" value="7" />
+          <entry key="xml" value="85" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="4" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="236" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="XML" value="85" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gradle" value="3" />
+          <entry key="java" value="9977" />
+          <entry key="xml" value="2209" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="3" />
+          <entry key="JAVA" value="9977" />
+          <entry key="XML" value="2209" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="psychological" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/converter/DateConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/home/HomeFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="60" column="70" selection-start-line="60" selection-start-column="70" selection-end-line="60" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_test_step_one.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="37" column="40" lean-forward="true" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/model/ResultNeo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/model/ResultPsychological.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2720">
+              <caret line="197" column="25" selection-start-line="197" selection-start-column="25" selection-end-line="197" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3273#3274#0" expanded="true" />
+                <element signature="e#3307#3308#0" expanded="true" />
+                <element signature="e#3362#3363#0" expanded="true" />
+                <element signature="e#3408#3409#0" expanded="true" />
+                <element signature="e#3444#3445#0" expanded="true" />
+                <element signature="e#3475#3476#0" expanded="true" />
+                <element signature="e#3524#3525#0" expanded="true" />
+                <element signature="e#3564#3565#0" expanded="true" />
+                <element signature="e#3607#3608#0" expanded="true" />
+                <element signature="e#3645#3646#0" expanded="true" />
+                <element signature="e#3798#3799#0" expanded="true" />
+                <element signature="e#3829#3830#0" expanded="true" />
+                <element signature="e#3878#3879#0" expanded="true" />
+                <element signature="e#3918#3919#0" expanded="true" />
+                <element signature="e#3967#3968#0" expanded="true" />
+                <element signature="e#4011#4012#0" expanded="true" />
+                <element signature="e#4193#4194#0" expanded="true" />
+                <element signature="e#4229#4230#0" expanded="true" />
+                <element signature="e#4288#4289#0" expanded="true" />
+                <element signature="e#4338#4339#0" expanded="true" />
+                <element signature="e#4380#4381#0" expanded="true" />
+                <element signature="e#4417#4418#0" expanded="true" />
+                <element signature="e#4478#4479#0" expanded="true" />
+                <element signature="e#4530#4531#0" expanded="true" />
+                <element signature="e#4571#4572#0" expanded="true" />
+                <element signature="e#4607#4608#0" expanded="true" />
+                <element signature="e#4666#4667#0" expanded="true" />
+                <element signature="e#4716#4717#0" expanded="true" />
+                <element signature="e#4758#4759#0" expanded="true" />
+                <element signature="e#4795#4796#0" expanded="true" />
+                <element signature="e#4856#4857#0" expanded="true" />
+                <element signature="e#4908#4909#0" expanded="true" />
+                <element signature="e#4949#4950#0" expanded="true" />
+                <element signature="e#4985#4986#0" expanded="true" />
+                <element signature="e#5044#5045#0" expanded="true" />
+                <element signature="e#5094#5095#0" expanded="true" />
+                <element signature="e#5128#5129#0" expanded="true" />
+                <element signature="e#5157#5158#0" expanded="true" />
+                <element signature="e#5202#5203#0" expanded="true" />
+                <element signature="e#5238#5239#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/utils/DataUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#760#761#0" expanded="true" />
+                <element signature="e#787#788#0" expanded="true" />
+                <element signature="e#835#836#0" expanded="true" />
+                <element signature="e#867#868#0" expanded="true" />
+                <element signature="e#908#909#0" expanded="true" />
+                <element signature="e#937#938#0" expanded="true" />
+                <element signature="e#989#990#0" expanded="true" />
+                <element signature="e#1025#1026#0" expanded="true" />
+                <element signature="e#1073#1074#0" expanded="true" />
+                <element signature="e#1109#1110#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="resourceFile" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>isInsertResultNeo</find>
+      <find>hideKeyboard</find>
+      <find>ivLogo</find>
+      <find>customer</find>
+      <find>specialized</find>
+      <find>isUpdateCustomer</find>
+      <find>phone</find>
+      <find>DialogE</find>
+      <find>gender</find>
+      <find>min</find>
+      <find>resultRiasec</find>
+      <find>resultNeo</find>
+      <find>adapter</find>
+      <find>results</find>
+      <find>isInsertListQuestionSuccess</find>
+      <find>getIsInsertListQuestionSuccess</find>
+      <find>save</find>
+      <find>saveQuestionInDB</find>
+      <find>listQuestion</find>
+      <find>getDataQuestions</find>
+      <find>birthday</find>
+      <find>Lo âu</find>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_charts.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/utils/EvaluateUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/EvaluateViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/custom/GraphRiasecView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/charts/ChartsFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/detail/DetailFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_detail.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/adapter/HistoryAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/history/HistoryViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/history/HistoryFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/charts/ChartsViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/bg_layout_toast_notification.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_notification.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/toast_notification.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/utils/ToastUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/utils/SharedPrefs.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/dao/QuestionDao.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/repository/QuestionRepository.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/directional/OpenStepTest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/TestViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_sign_up.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_sign_in.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/dialog/DialogEditCustomer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/test_step_one/TestStepOneFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/base/BaseActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_back_setting.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/bg_item_setting.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/dialog_setting.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/directional/SettingTest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/dialog/DialogSetting.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/TestActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/framgment_home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/splash/SplashActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/splash/SplashViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/detail_question.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/adapter/QuestionPagerAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/utils/DataUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/AbstractAppDatabase.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/model/ResultPsychological.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/utils/Define.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/dao/ResultDao.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/repository/ResultRespository.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/test_step_two/TestStepTwoViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/test_step_two/TestStepTwoFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/home/HomeFragment.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_test_step_one.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2108" />
+    <option name="y" value="143" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="projectpsychological" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="projectpsychological" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="projectpsychological" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="projectpsychological" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="projectpsychological" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="projectpsychological" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="projectpsychological" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="projectpsychological" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="customer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="projectpsychological" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psychological" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psychological" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="Nexus_5X_API_28 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="dev147.com.vn.projectpsychological" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="test_step&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/res/layout/fragment_test_step_one.xml&#10;HomeFra&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/home/HomeFragment.java&#10;string&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/res/values/strings.xml&#10;fragment_home&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/res/layout/fragment_home.xml&#10;TestStepTwoF&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/test_step_two/TestStepTwoFragment.java&#10;DAta&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/utils/DataUtils.java&#10;TestStep&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/test_step_two/TestStepTwoFragment.java&#10;Splas&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/splash/SplashViewModel.java&#10;Dial&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/dialog/DialogEditCustomer.java&#10;home&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/home/HomeFragment.java&#10;Spla&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/splash/SplashActivity.java&#10;Two&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/test_step_two/TestStepTwoFragment.java&#10;Def&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/utils/Define.java&#10;One&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/test_step_one/TestStepOneFragment.java&#10;HomeF&#9;PSI&#9;JAVA://dev147.com.vn.projectpsychological.ui.home.HomeFragment&#10;Test&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/TestActivity.java&#10;Customer&#9;PSI&#9;JAVA://dev147.com.vn.projectpsychological.ui.customer.CustomerFragment&#10;fragmen&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/res/layout/fragment_sign_in.xml&#10;fragment_si&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/res/layout/fragment_sign_up.xml&#10;TestA&#9;PSI&#9;JAVA://dev147.com.vn.projectpsychological.ui.test.TestActivity&#10;Spa&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/splash/SplashActivity.java&#10;Appl&#9;PSI&#9;JAVA://dev147.com.vn.projectpsychological.MainApplication&#10;OneF&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/test_step_one/TestStepOneFragment.java&#10;two&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/test_step_two/TestStepTwoFragment.java&#10;OneFra&#9;PSI&#9;JAVA://dev147.com.vn.projectpsychological.ui.test.test_step_one.TestStepOneFragment&#10;Char&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/charts/ChartsViewModel.java&#10;Eva&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/EvaluateViewModel.java&#10;Res&#9;PSI&#9;JAVA://dev147.com.vn.projectpsychological.data.dao.ResultDao&#10;Hist&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/history/HistoryViewModel.java&#10;His&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/history/HistoryFragment.java&#10;Chart&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/charts/ChartsFragment.java&#10;Deta&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/detail/DetailFragment.java&#10;Detai&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/res/layout/fragment_detail.xml&#10;Gra&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/custom/GraphRiasecView.java&#10;Detail&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/detail/DetailFragment.java&#10;Dialog&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/dialog/DialogEditCustomer.java&#10;De&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/detail/DetailFragment.java&#10;Fields&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/utils/Fields.java&#10;Cha&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/charts/ChartsFragment.java&#10;Fie&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/utils/Fields.java&#10;CustomerV&#9;PSI&#9;JAVA://dev147.com.vn.projectpsychological.ui.customer.CustomerViewModel&#10;DialogE&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/dialog/DialogEditCustomer.java&#10;Base&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/base/BaseFragment.java&#10;SignInF&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/customer/signin/SignInFragment.java&#10;SignIn&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/java/dev147/com/vn/projectpsychological/ui/customer/signin/SignInViewModel.java&#10;Ma&#9;FILE&#9;file://C:/Users/anhqa/Desktop/psychological/app/src/main/AndroidManifest.xml&#10;Field&#9;PSI&#9;JAVA://dev147.com.vn.projectpsychological.utils.Fields" />
+    <property name="android.project.structure.last.selected" value="app" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="Nexus_5X_API_28" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kotlin_Money" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anhqa\Desktop\psychological\app\src\main\res\drawable" />
+      <recent name="C:\Users\anhqa\Desktop\psychological\app\src\main\res\anim" />
+      <recent name="C:\Users\anhqa\Desktop\psychological\app\src\main\res\drawable-v21" />
+      <recent name="C:\Users\anhqa\Desktop\psychological\app\src\main\res\layout" />
+      <recent name="C:\Users\anhqa\Desktop\psychological\app\src\main\java\dev147\com\vn\projectpsychological\ui\dialog" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/anhqa/Desktop/psychological/app [cleanBuildCache]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="cleanBuildCache" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/anhqa/Desktop/psychological/app [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Gradle.C:/Users/anhqa/Desktop/psychological/app [clean]" />
+      <item itemvalue="Gradle.C:/Users/anhqa/Desktop/psychological/app [cleanBuildCache]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.C:/Users/anhqa/Desktop/psychological/app [cleanBuildCache]" />
+        <item itemvalue="Gradle.C:/Users/anhqa/Desktop/psychological/app [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="824355ab-7a26-4cd1-85a3-a1d0ee1d6758" name="Default Changelist" comment="" />
+      <created>1553271814804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553271814804</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2108" y="143" width="1936" height="1066" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" sideWeight="0.5008" side_tool="true" weight="0.2249467" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4992" visible="true" weight="0.23340471" />
+      <window_info id="Structure" order="2" sideWeight="0.5008" side_tool="true" weight="0.2249467" />
+      <window_info id="Favorites" order="3" sideWeight="0.5008" side_tool="true" weight="0.2249467" />
+      <window_info id="Build Variants" order="4" sideWeight="0.5008" side_tool="true" weight="0.2249467" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Find" order="0" weight="0.32842582" />
+      <window_info anchor="bottom" id="Run" order="1" weight="0.3295583" />
+      <window_info anchor="bottom" id="SonarLint" order="2" weight="0.32939914" />
+      <window_info anchor="bottom" id="Logcat" order="3" weight="0.37825593" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.6398641" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32939914" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.398641" />
+      <window_info anchor="bottom" id="Android Profiler" order="10" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" order="11" weight="0.32939914" />
+      <window_info active="true" anchor="right" id="Preview" order="0" visible="true" weight="0.31423983" />
+      <window_info anchor="right" id="Device File Explorer" order="1" side_tool="true" weight="0.40042827" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.32976446" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/custom/GraphRiasecView.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/custom/GraphRiasecView.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/custom/GraphRiasecView.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/custom/GraphRiasecView.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/history/HistoryFragment.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/history/HistoryFragment.java</url>
+          <line>120</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/history/HistoryFragment.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/history/HistoryFragment.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/history/HistoryFragment.java</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/history/HistoryFragment.java</url>
+          <line>189</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/history/HistoryFragment.java</url>
+          <line>188</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/EvaluateActivity.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/EvaluateActivity.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/EvaluateActivity.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/EvaluateActivity.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/EvaluateActivity.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/EvaluateActivity.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/EvaluateActivity.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/evaluate/EvaluateActivity.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/splash/SplashActivity.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/splash/SplashActivity.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/splash/SplashActivity.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="yyyy" />
+        <watch expression="dd" />
+        <watch expression="mm" />
+        <watch expression="question" />
+      </configuration>
+      <configuration name="Remote">
+        <watch expression="gender" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/image_neo_question.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/TestViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/test_step_one/TestStepOneFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="110" column="70" selection-start-line="110" selection-start-column="70" selection-end-line="110" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/base/BaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="74" column="80" selection-start-line="74" selection-start-column="80" selection-end-line="74" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_back_setting.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="44" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/base/BaseDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="70" column="5" selection-start-line="64" selection-start-column="4" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_item_setting.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_edit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="73" column="43" lean-forward="true" selection-start-line="73" selection-start-column="43" selection-end-line="73" selection-end-column="43" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/TestActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="86" column="72" selection-start-line="86" selection-start-column="72" selection-end-line="86" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/dialog/DialogSetting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_setting.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="44" column="43" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/utils/SharedPrefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/customer/CustomerFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/utils/NetworkUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/directional/OpenStepTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/directional/SettingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/data_binding_base_class_source_out/debug/dataBindingGenBaseClassesDebug/out/dev147/com/vn/projectpsychological/databinding/FragmentHomeBinding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/data/2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/data/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_history.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/dialog/DialogEditCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2240">
+          <caret line="144" column="29" selection-start-line="144" selection-start-column="29" selection-end-line="144" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/model/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/data/3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="1992" column="18" selection-start-line="1992" selection-start-column="18" selection-end-line="1992" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/splash/SplashViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="114" column="59" selection-start-line="114" selection-start-column="59" selection-end-line="114" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/splash/SplashActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="67" column="69" selection-start-line="67" selection-start-column="69" selection-end-line="67" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/detail_question.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/adapter/QuestionPagerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="184" column="39" selection-start-line="184" selection-start-column="27" selection-end-line="184" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/base/BaseFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/model/ResultRiasec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/utils/Define.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="66" column="50" selection-start-line="66" selection-start-column="50" selection-end-line="66" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/test_step_two/TestStepTwoFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="212" lean-forward="true" selection-start-line="212" selection-end-line="212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/test/test_step_two/TestStepTwoViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2300">
+          <caret line="131" column="39" selection-start-line="131" selection-start-column="39" selection-end-line="131" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/AbstractAppDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/dao/ResultDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/repository/ResultRespository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_image_flipper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/image_out.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/model/ResultNeo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/model/ResultPsychological.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2720">
+          <caret line="197" column="25" selection-start-line="197" selection-start-column="25" selection-end-line="197" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3273#3274#0" expanded="true" />
+            <element signature="e#3307#3308#0" expanded="true" />
+            <element signature="e#3362#3363#0" expanded="true" />
+            <element signature="e#3408#3409#0" expanded="true" />
+            <element signature="e#3444#3445#0" expanded="true" />
+            <element signature="e#3475#3476#0" expanded="true" />
+            <element signature="e#3524#3525#0" expanded="true" />
+            <element signature="e#3564#3565#0" expanded="true" />
+            <element signature="e#3607#3608#0" expanded="true" />
+            <element signature="e#3645#3646#0" expanded="true" />
+            <element signature="e#3798#3799#0" expanded="true" />
+            <element signature="e#3829#3830#0" expanded="true" />
+            <element signature="e#3878#3879#0" expanded="true" />
+            <element signature="e#3918#3919#0" expanded="true" />
+            <element signature="e#3967#3968#0" expanded="true" />
+            <element signature="e#4011#4012#0" expanded="true" />
+            <element signature="e#4193#4194#0" expanded="true" />
+            <element signature="e#4229#4230#0" expanded="true" />
+            <element signature="e#4288#4289#0" expanded="true" />
+            <element signature="e#4338#4339#0" expanded="true" />
+            <element signature="e#4380#4381#0" expanded="true" />
+            <element signature="e#4417#4418#0" expanded="true" />
+            <element signature="e#4478#4479#0" expanded="true" />
+            <element signature="e#4530#4531#0" expanded="true" />
+            <element signature="e#4571#4572#0" expanded="true" />
+            <element signature="e#4607#4608#0" expanded="true" />
+            <element signature="e#4666#4667#0" expanded="true" />
+            <element signature="e#4716#4717#0" expanded="true" />
+            <element signature="e#4758#4759#0" expanded="true" />
+            <element signature="e#4795#4796#0" expanded="true" />
+            <element signature="e#4856#4857#0" expanded="true" />
+            <element signature="e#4908#4909#0" expanded="true" />
+            <element signature="e#4949#4950#0" expanded="true" />
+            <element signature="e#4985#4986#0" expanded="true" />
+            <element signature="e#5044#5045#0" expanded="true" />
+            <element signature="e#5094#5095#0" expanded="true" />
+            <element signature="e#5128#5129#0" expanded="true" />
+            <element signature="e#5157#5158#0" expanded="true" />
+            <element signature="e#5202#5203#0" expanded="true" />
+            <element signature="e#5238#5239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/utils/DataUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_test_step_one.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="37" column="40" lean-forward="true" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/ui/home/HomeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="60" column="70" selection-start-line="60" selection-start-column="70" selection-end-line="60" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/dev147/com/vn/projectpsychological/data/converter/DateConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+
+hsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(°ŠåF8¶æ·×š-
+Tsquid:S2696M"6Make the enclosing method "static" or remove this set.(¼®‚®8¶æ·×š-
+Ysquid:S26960"6Make the enclosing method "static" or remove this set.(ÏâÃ’ýÿÿÿÿ8¶æ·×š-
+Lsquid:S10662"/Merge this if statement with the enclosing one.(¼•ñ8¶æ·×š-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÂÖÊÿÿÿÿÿ

@@ -1,0 +1,14 @@
+
+msquid:S1450"VRemove the "tvTheme" field and declare it as a local variable in the relevant methods.(ÜÑ½·
+vsquid:S1450#"XRemove the "seperator" field and declare it as a local variable in the relevant methods.(’×‚ï8ëÃ‚Ù­-
+nsquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(öžÝóûÿÿÿÿ8òÊíÚ­-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¼©Êøÿÿÿÿ8òÊíÚ­-
+osquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(³áü±ùÿÿÿÿ8òÊíÚ­-
+osquid:S1450"XRemove the "tvContent" field and declare it as a local variable in the relevant methods.(ž€ØË
+jsquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(±¯€¤8òÊíÚ­-
+zsquid:S1450""WRemove the "btnRadio" field and declare it as a local variable in the relevant methods.(«’ùµÿÿÿÿÿ8ˆ¶Ù­-
+osquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(£á™úÿÿÿÿ8òÊíÚ­-
+lsquid:S1450"URemove the "rGroup" field and declare it as a local variable in the relevant methods.(É†
+nsquid:CommentedOutCodeLine|"<This block of commented-out lines of code should be removed.(²Íàðúÿÿÿÿ8òÊíÚ­-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏšÂ“
+nsquid:CommentedOutCodeLiney"<This block of commented-out lines of code should be removed.(ÒÄÄÃÿÿÿÿÿ8òÊíÚ­-

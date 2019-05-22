@@ -1,0 +1,6 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã¨ÙÓüÿÿÿÿ
+Jsquid:S1602U",Remove useless curly braces around statement(¹¤ÀŠ8ĞâÇ×š-
+Jsquid:S1602`",Remove useless curly braces around statement(¹¤ÀŠ8ĞâÇ×š-
+Š"squid:ClassVariableVisibilityCheck"UMake pathImage a static final constant or non-public and provide accessors if needed.(æÙ¿É8ĞâÇ×š-
+dsquid:S1126L"AReplace this if-then-else statement by a single return statement.(¹­ñ’ûÿÿÿÿ8ĞâÇ×š-

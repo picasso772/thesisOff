@@ -1,0 +1,8 @@
+
+osquid:S37767"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(±ÖÑ8†ÄËÛš-
+Isquid:S1068&"+Remove this unused "handler" private field.(Æ¶Ø…8ã›Æ×š-
+Ksquid:S1185e"(Remove this method to simply inherit it.(º£”úÿÿÿÿ8ã›Æ×š-
+¤squid:S11862"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îÔ˜÷ùÿÿÿÿ8ã›Æ×š-
+tsquid:S1450&"VRemove the "handler" field and declare it as a local variable in the relevant methods.(Æ¶Ø…8ã›Æ×š-
+¥squid:S1186Ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€úå¢ûÿÿÿÿ8ã›Æ×š-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã¨ÙÓüÿÿÿÿ

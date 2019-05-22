@@ -1,0 +1,9 @@
+
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(¼Øûì
+Esquid:S1185œ"(Remove this method to simply inherit it.(ìå¼Ôüÿÿÿÿ
+fsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(…ıê
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÂÖÊÿÿÿÿÿ
+esquid:S2095Œ"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Öøêù
+wsquid:S1488)"`Immediately return this expression instead of assigning it to the temporary variable "typeface".(€Ï–­
+^
+squid:S899ï"BDo something with the "boolean" value returned by "createNewFile".(ÖàÖ¸ûÿÿÿÿ

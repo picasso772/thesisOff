@@ -1,0 +1,14 @@
+
+P"squid:SwitchLastCaseIsDefaultCheck9""Add a default case to this switch.(‹üïç
+bsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(©Ì≤À
+bsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(ËìΩé
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î˘öå¸ˇˇˇˇ
+~squid:S1450"[Remove the "resultRiasec" field and declare it as a local variable in the relevant methods.(ó•§ú¯ˇˇˇˇ8÷™ïÓö-
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(Œƒê˙˝ˇˇˇˇ
+gsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(±¯◊œ˛ˇˇˇˇ
+bsquid:CommentedOutCodeLinem"<This block of commented-out lines of code should be removed.(±ØÄ§
+bsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(‹“í¸
+bsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(»°±ª
+bsquid:CommentedOutCodeLineo"<This block of commented-out lines of code should be removed.(±ØÄ§
+bsquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(È∏·–
+tsquid:S1450"XRemove the "resultNeo" field and declare it as a local variable in the relevant methods.(≤îÛ–˝ˇˇˇˇ

@@ -1,0 +1,10 @@
+
+P"squid:SwitchLastCaseIsDefaultCheckA""Add a default case to this switch.(ÀÒÀÿ
+U"squid:SwitchLastCaseIsDefaultCheckv""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+gsquid:S1301v"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ
+[squid:HiddenFieldCheck|"9Rename "email" which hides the field declared at line 23.(˜¦ªî
+_squid:HiddenFieldCheck}"8Rename "pass" which hides the field declared at line 24.(À…”€þÿÿÿÿ
+Nsquid:S1135,"2Complete the task associated to this TODO comment.(ïÎûÄúÿÿÿÿ
+Nsquid:S1135C"2Complete the task associated to this TODO comment.(ïÎûÄúÿÿÿÿ
+—squid:S1186e"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ÖÑ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¾Ýº
