@@ -18,7 +18,7 @@
             app:tabMode="scrollable"
             app:tabTextColor="@android:color/white" />
 
-        <dev147.com.vn.projectpsychological.ui.custom.ViewPagerCustom
+        <longnd.com.vn.thesis.ui.custom.ViewPagerCustom
             android:id="@+id/mViewPager"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

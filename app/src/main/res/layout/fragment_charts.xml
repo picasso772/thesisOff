@@ -45,6 +45,15 @@
             android:layout_below="@id/space2"
             android:layout_marginTop="5dp" />
 
+        <com.anychart.AnyChartView
+            android:id="@+id/chartAny"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:layout_marginTop="5dp"
+            android:layout_above="@id/layout_note"
+            android:layout_below="@id/space2"/>
+
         <LinearLayout
             android:id="@+id/layout_note"
             android:layout_width="match_parent"
@@ -53,6 +62,7 @@
             android:layout_marginBottom="10dp"
             android:orientation="vertical">
 
+            <!-- Screen Riasec -->
             <LinearLayout
                 android:id="@+id/layout_riasec"
                 android:layout_width="match_parent"
@@ -61,13 +71,16 @@
 
                 <TextView
                     android:id="@+id/tvResultRiasec"
-                    android:gravity="center"
                     android:layout_width="match_parent"
-                    android:textStyle="bold"
                     android:layout_height="wrap_content"
-                    android:textColor="@android:color/black" />
+                    android:gravity="center"
+                    android:textSize="18sp"
+                    android:padding="10dp"
+                    android:textColor="@android:color/black"
+                    android:textStyle="bold" />
             </LinearLayout>
 
+            <!-- Screen Neo -->
             <LinearLayout
                 android:id="@+id/layout_neo"
                 android:layout_width="match_parent"
@@ -300,8 +313,9 @@
             android:layout_alignParentBottom="true"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
+            android:layout_marginBottom="5dp"
             android:orientation="horizontal"
-            android:weightSum="2">
+            android:weightSum="3">
 
             <Button
                 android:id="@+id/btnBack"
@@ -316,13 +330,24 @@
                 android:textSize="15sp" />
 
             <Button
+                android:id="@+id/btnDownload"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/bg_button_down_evaluate"
+                android:text="Download"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="15sp" />
+
+            <Button
                 android:id="@+id/btnViewAll"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_marginLeft="10dp"
                 android:layout_weight="1"
                 android:background="@drawable/bg_button_view_all_evaluate"
-                android:text="View all >>"
+                android:text="View all"
                 android:textAllCaps="true"
                 android:textColor="@android:color/white"
                 android:textSize="15sp" />

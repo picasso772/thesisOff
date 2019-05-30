@@ -142,6 +142,23 @@
         <item>Gây hấn</item>
     </string-array>
 
+    <string-array name="kind_title_psycho">
+        <item><b>Lo âu</b></item>
+        <item>Trầm cảm</item>
+        <item>Stress</item>
+        <item>Khó tập trung</item>
+        <item>Tăng động</item>
+        <item>Khó khăn về giao tiếp xã hội</item>
+        <item>Khó khăn học tập</item>
+        <item>Khó khăn trong định hướng nghề nghiệp</item>
+        <item>Khó khăn trong mối quan hệ với cha mẹ</item>
+        <item>Khó khăn trong mối quan hệ với thầy cô</item>
+        <item>Khó khăn trong mối quan hệ với bạn bè</item>
+        <item>Hành vi thách thức - chống đối</item>
+        <item>Rối loạn hành vi ứng xử</item>
+        <item>Gây hấn</item>
+    </string-array>
+
     <string-array name="answer_psycho_kind_weak">
         <item>Không bao giờ</item>
         <item>Thi thoảng</item>
@@ -169,5 +186,11 @@
         <item>Nửa đúng nửa không</item>
         <item>Gần như đúng</item>
         <item>Rất đúng</item>
+    </string-array>
+
+    <string-array name="evaluatePsycho">
+        <item>Không gặp vấn đề</item>
+        <item>Nguy cơ</item>
+        <item>Nên gặp chuyên gia</item>
     </string-array>
 </resources>

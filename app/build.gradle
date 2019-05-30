@@ -60,4 +60,8 @@ dependencies {
     implementation 'com.github.ybq:Android-SpinKit:1.2.0'
 
     implementation 'de.hdodenhof:circleimageview:3.0.0'
+    
+    implementation 'com.github.AnyChart:AnyChart-Android:1.1.2'
+
+    implementation 'com.itextpdf:itextg:5.5.10'
 }
